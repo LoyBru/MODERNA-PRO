@@ -2647,3 +2647,11 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
+
+/* Aggiunti */
+
+.sapLogo {
+  height: 22px;
+  margin-left: 2px;
+  margin-bottom: 9px;
+}
